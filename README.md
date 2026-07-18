@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Soumyadeep Das
 
-<!--
-**Soumyadeepdas2/Soumyadeepdas2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (AI & ML)**
 
-Here are some ideas to get you started:
+💻 I'm currently learning:
+- MERN Stack
+- Data Structures & Algorithms
+- Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 📚 BookyUniverse
+An online eBook platform where users can discover and read books.
+
+🔗 Live Demo:
+https://bookyuniverse-zmzb.vercel.app/
+
+## 🌱 Currently Working On
+
+- Learning React
+- Solving LeetCode
+- Preparing for Open Source Contributions
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- C++
+- Python
+- Git
+- GitHub
+
+## 🎯 2026 Goals
+
+- ✅ Become a MERN Stack Developer
+- ✅ Contribute to Open Source
+- ✅ Solve 500+ LeetCode Problems
+- ✅ Build Industry-Level Projects
+
+---
+⭐ Thanks for visiting my profile!
