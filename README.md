@@ -13,7 +13,7 @@
 An online eBook platform where users can discover and read books.
 
 🔗 Live Demo:
-https://bookyuniverse-zmzb.vercel.app/
+https://bookyuniverse.vercel.app/
 
 ## 🌱 Currently Working On
 
