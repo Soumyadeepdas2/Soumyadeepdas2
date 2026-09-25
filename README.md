@@ -56,8 +56,8 @@ idea → prototype → debug → learn → ship
 ## `04 / GITHUB PULSE`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Soumyadeepdas2&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Soumyadeep's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Soumyadeepdas2&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Soumyadeep's most used languages" />
+  <img height="170" src="https://github-readme-stats-red.vercel.app/api?username=Soumyadeepdas2&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Soumyadeep's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats-red.vercel.app/api/top-langs?username=Soumyadeepdas2&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Soumyadeep's most used languages" />
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ idea → prototype → debug → learn → ship
 
 <p align="center">
   <a href="https://github.com/Soumyadeepdas2/CodingProfile">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Soumyadeepdas2&repo=CodingProfile&theme=tokyonight&hide_border=true" alt="CodingProfile repository" />
+    <img src="https://github-readme-stats-red.vercel.app/api/pin?username=Soumyadeepdas2&repo=CodingProfile&theme=tokyonight&hide_border=true" alt="CodingProfile repository" />
   </a>
 </p>
 
