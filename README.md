@@ -1,103 +1,99 @@
-# SOUMYADEEP DAS
+<div align="center">
+  <img src="./assets/boy-typing.gif" alt="An animated developer typing on a laptop" width="900" />
+</div>
 
-`developer · builder · student`
+<h1 align="center">Hey, I'm Soumyadeep Das 👋</h1>
 
-> I build things on the internet — sometimes useful, sometimes experimental, always learning.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&width=850&lines=Full-stack+developer+%7C+builder+%7C+student;Turning+ideas+into+useful+products;Exploring+AI%2FML%2C+cloud%2C+and+everything+in+between" alt="Typing animation" />
+</p>
 
-[**Portfolio**](https://www.soumyadeep.space) · [**GitHub**](https://github.com/Soumyadeepdas2)
+<p align="center">
+  <a href="https://www.soumyadeep.space/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://github.com/Soumyadeepdas2"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  <a href="https://orcid.org/0009-0003-8595-5710"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=FFFFFF" alt="ORCID" /></a>
+</p>
 
 ---
 
-### `01 / NOW`
+## `01 / ABOUT ME`
 
-Currently working around:
+I'm a developer who enjoys taking an idea from **“this would be cool”** to **“it's actually live.”** I build, break, understand, fix, and keep shipping.
 
-**Web Development** · **AI / ML** · **DSA** · **Cloud**
+- 🔭 Currently building full-stack projects and side experiments
+- 🧠 Practising DSA, problem solving, and system design
+- 🤖 Exploring AI / ML and cloud technologies
+- 🎯 Preparing for GATE and learning something new every day
+- 🌐 Find me at [soumyadeep.space](https://www.soumyadeep.space/)
+
+## `02 / WHAT I WORK WITH`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,c,html,css,react,nodejs,mongodb,supabase,aws,git,github,vercel&perline=8" alt="Skills: C++, Java, Python, JavaScript, C, HTML, CSS, React, Node.js, MongoDB, Supabase, AWS, Git, GitHub, Vercel" />
+</p>
+
+<details>
+<summary><b>View the toolbox</b></summary>
+<br />
+
+| Area | Tools |
+| :--- | :--- |
+| **Languages** | C++ · Java · Python · JavaScript · C |
+| **Web** | HTML · CSS · React · Node.js |
+| **Database / Cloud** | MongoDB · Supabase · AWS |
+| **Tools** | Git · GitHub · Vercel · ImageKit |
+
+</details>
+
+## `03 / MY BUILDING LOOP`
 
 ```text
-learning     →   DSA · system design · AI / ML
-building     →   web projects & side experiments
-solving      →   LeetCode · competitive problems
-exploring    →   AWS · open source · new ideas
+idea → prototype → debug → learn → ship
+  ↑                              ↓
+  └────────── repeat ────────────┘
 ```
 
----
+## `04 / GITHUB PULSE`
 
-### `02 / WHAT I BUILD`
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Soumyadeepdas2&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Soumyadeep's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeepdas2&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Soumyadeep's most used languages" />
+</p>
 
-I like taking an idea from:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Soumyadeepdas2&theme=tokyonight&hide_border=true" alt="Soumyadeep's GitHub streak" />
+</p>
 
-```text
-"this would be cool"
-        ↓
-"let's build it"
-        ↓
-"okay, it's actually live"
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyadeepdas2&theme=tokyo-night&hide_border=true&area=true" alt="Soumyadeep's contribution graph" width="95%" />
+</p>
 
-Most of my projects start as experiments and end up teaching me something I didn't know before.
+## `05 / FEATURED`
 
-Some are small. Some become actual products. Some probably shouldn't have survived the first commit.
+<p align="center">
+  <a href="https://github.com/Soumyadeepdas2/CodingProfile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeepdas2&repo=CodingProfile&theme=tokyonight&hide_border=true" alt="CodingProfile repository" />
+  </a>
+</p>
 
-**[→ View all projects](https://www.soumyadeep.space/#projects)**
+<p align="center">
+  <a href="https://github.com/Soumyadeepdas2?tab=repositories">→ Explore all repositories</a>
+</p>
 
----
+## `06 / LET'S CONNECT`
 
-### `03 / TOOLBOX`
+<p align="center">
+  <a href="https://www.soumyadeep.space/">Portfolio</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Soumyadeepdas2">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://orcid.org/0009-0003-8595-5710">ORCID</a>
+</p>
 
-```text
-LANGUAGES
-C++ · Java · Python · JavaScript · C
+<p align="center">
+  <i>Still building. Still learning. Still shipping.</i>
+</p>
 
-WEB
-HTML · CSS · React · Node.js
-
-DATABASE / CLOUD
-Supabase · AWS · MongoDB
-
-TOOLS
-Git · GitHub · Vercel · ImageKit
-```
-
----
-
-### `04 / CURRENTLY`
-
-```text
-[ learning ]    DSA + problem solving
-[ building ]    full-stack projects
-[ exploring ]   AI / ML + cloud
-[ preparing ]   GATE
-```
-
----
-
-### `05 / HOW I LEARN`
-
-Build something.
-
-Break something.
-
-Figure out why.
-
-Fix it.
-
-Build the next thing.
-
----
-
-### `06 / FIND ME`
-
-**Portfolio** → [soumyadeep.space](https://www.soumyadeep.space)
-
-**GitHub** → [@Soumyadeepdas2](https://github.com/Soumyadeepdas2)
-
----
-
-```text
-────────────────────────────────────────────
-
-still building.
-
-SOUMYADEEP DAS
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=120&section=footer" alt="Decorative footer" width="100%" />
+</p>
