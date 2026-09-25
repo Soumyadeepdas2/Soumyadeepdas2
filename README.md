@@ -4,64 +4,46 @@
 
 > I build things on the internet — sometimes useful, sometimes experimental, always learning.
 
-[**Portfolio**](https://www.soumyadeep.space) · [**LinkedIn**](#) · [**GitHub**](https://github.com/Soumyadeepdas2)
+[**Portfolio**](https://www.soumyadeep.space) · [**GitHub**](https://github.com/Soumyadeepdas2)
 
 ---
 
 ### `01 / NOW`
 
-Currently building, breaking, and rebuilding things around:
+Currently working around:
 
 **Web Development** · **AI / ML** · **DSA** · **Cloud**
 
 ```text
-learning     →   React · backend · system design
-building     →   products that actually work
-solving      →   DSA · LeetCode · GATE
-exploring    →   AI · AWS · open source
+learning     →   DSA · system design · AI / ML
+building     →   web projects & side experiments
+solving      →   LeetCode · competitive problems
+exploring    →   AWS · open source · new ideas
 ```
 
 ---
 
-### `02 / SELECTED WORK`
+### `02 / WHAT I BUILD`
 
-#### HUSHH
+I like taking an idea from:
 
-**Private realtime communication.**
+```text
+"this would be cool"
+        ↓
+"let's build it"
+        ↓
+"okay, it's actually live"
+```
 
-A chat platform built around privacy, simple identity, and realtime communication.
+Most of my projects start as experiments and end up teaching me something I didn't know before.
 
-`JavaScript` `Supabase` `Realtime` `Auth`
+Some are small. Some become actual products. Some probably shouldn't have survived the first commit.
 
-→ [View project](https://github.com/Soumyadeepdas2/hushh)
-
----
-
-#### POLICYTELLS
-
-**An independent policy magazine on the web.**
-
-A publishing platform with dynamic articles, image optimization, SEO, server-side rendering and a custom admin workflow.
-
-`JavaScript` `Supabase` `Vercel` `ImageKit`
-
-→ [Visit website](https://policytells.in)
+**[→ View all projects](https://www.soumyadeep.space/#projects)**
 
 ---
 
-#### BOOKYUNIVERSE
-
-**An e-library built from scratch.**
-
-Discover, browse and read books through a lightweight web experience.
-
-`HTML` `CSS` `JavaScript` `Supabase`
-
-→ [Visit project](https://bookyuniverse.vercel.app/)
-
----
-
-### `03 / THE TOOLBOX`
+### `03 / TOOLBOX`
 
 ```text
 LANGUAGES
@@ -70,7 +52,7 @@ C++ · Java · Python · JavaScript · C
 WEB
 HTML · CSS · React · Node.js
 
-DATA / CLOUD
+DATABASE / CLOUD
 Supabase · AWS · MongoDB
 
 TOOLS
@@ -90,17 +72,17 @@ Git · GitHub · Vercel · ImageKit
 
 ---
 
-### `05 / A LITTLE MORE`
+### `05 / HOW I LEARN`
 
-I like taking an idea from:
+Build something.
 
-`"this would be cool"`
+Break something.
 
-to
+Figure out why.
 
-`"it's actually live."`
+Fix it.
 
-Most of my learning happens by building things, breaking them, fixing them, and then wondering why I didn't build them differently in the first place.
+Build the next thing.
 
 ---
 
