@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/boy-typing.gif" alt="An animated developer typing on a laptop" width="900" />
+  <img src="https://raw.githubusercontent.com/Soumyadeepdas2/Soumyadeepdas2/main/assets/boy-typing.gif" alt="An animated developer typing on a laptop" width="900" />
 </div>
 
 <h1 align="center">Hey, I'm Soumyadeep Das 👋</h1>
@@ -56,23 +56,23 @@ idea → prototype → debug → learn → ship
 ## `04 / GITHUB PULSE`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Soumyadeepdas2&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Soumyadeep's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeepdas2&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Soumyadeep's most used languages" />
+  <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Soumyadeepdas2&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Soumyadeep's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Soumyadeepdas2&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Soumyadeep's most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Soumyadeepdas2&theme=tokyonight&hide_border=true" alt="Soumyadeep's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Soumyadeepdas2&theme=tokyonight&hide_border=true&v=2" alt="Soumyadeep's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyadeepdas2&theme=tokyo-night&hide_border=true&area=true" alt="Soumyadeep's contribution graph" width="95%" />
+  <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=Soumyadeepdas2&theme=tokyo-night&hide_border=true&area=true" alt="Soumyadeep's contribution graph" width="95%" />
 </p>
 
 ## `05 / FEATURED`
 
 <p align="center">
   <a href="https://github.com/Soumyadeepdas2/CodingProfile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeepdas2&repo=CodingProfile&theme=tokyonight&hide_border=true" alt="CodingProfile repository" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Soumyadeepdas2&repo=CodingProfile&theme=tokyonight&hide_border=true" alt="CodingProfile repository" />
   </a>
 </p>
 
