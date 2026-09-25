@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Soumyadeepdas2/Soumyadeepdas2/main/assets/boy-typing.gif" alt="An animated developer typing on a laptop" width="900" />
+  <img src="https://raw.githubusercontent.com/Soumyadeepdas2/Soumyadeepdas2/main/assets/greetings-india.gif" alt="Animated greetings in Indian languages: hello, namaste, namaskar and more" width="900" />
 </div>
 
 <h1 align="center">Hey, I'm Soumyadeep Das 👋</h1>
@@ -47,11 +47,11 @@ I'm a developer who enjoys taking an idea from **“this would be cool”** to *
 
 ## `03 / MY BUILDING LOOP`
 
-```text
+<pre align="center">
 idea → prototype → debug → learn → ship
   ↑                              ↓
   └────────── repeat ────────────┘
-```
+</pre>
 
 ## `04 / GITHUB PULSE`
 
